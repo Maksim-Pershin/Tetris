@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "music": true,
+    "sfx": true,
+    "music_volume": 1,
+    "sfx_volume": 10,
+    "fullscreen": true,
+    "name": "Я",
+    "address": ""
+  },
+  "records": {
+    "marathon": [
+      {
+        "name": "Игрок",
+        "score": 34322,
+        "lines": null,
+        "level": null,
+        "time": null,
+        "date": ""
+      },
+      {
+        "name": "Я номер один",
+        "score": 28123,
+        "lines": 53,
+        "level": 6,
+        "time": 417.1,
+        "date": "20.10.2026"
+      },
+      {
+        "name": "Клаксон",
+        "score": 15628,
+        "lines": 39,
+        "level": 4,
+        "time": 345.6,
+        "date": "20.10.2026"
+      },
+      {
+        "name": "Я",
+        "score": 1740,
+        "lines": 6,
+        "level": 1,
+        "time": 156.0,
+        "date": "20.10.2026"
+      },
+      {
+        "name": "Я",
+        "score": 1264,
+        "lines": 4,
+        "level": 1,
+        "time": 36.2,
+        "date": "20.10.2026"
+      }
+    ]
+  }
+}
